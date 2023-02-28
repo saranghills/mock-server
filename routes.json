@@ -1,0 +1,6 @@
+{
+    "/api/companies": "/companies",
+    "/api/countries": "/countries",
+    "/api/performance/countries": "/details?_expand=country",
+    "/api/performance/countries/company/:id": "/details?_expand=company&companyId=:id"
+}

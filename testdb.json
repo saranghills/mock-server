@@ -1,0 +1,72 @@
+{
+  "companies": [
+    {
+      "display_name": "GameSys",
+      "id": 1,
+      "name": "gamesys"
+    },
+    {
+      "display_name": "Playtika",
+      "id": 2,
+      "name": "playtika"
+    }
+  ],
+  "countries": [
+    {
+      "installs": 13452,
+      "nation": "United States",
+      "cost": 25000,
+      "iso": "US",
+      "revenue": 20000,
+      "id": 1
+    },
+    {
+      "installs": 9488,
+      "nation": "United Kingdom",
+      "cost": 16002,
+      "iso": "UK",
+      "revenue": 11978,
+      "id": 2
+    }
+  ],
+  "details": [
+    {
+      "installs": 1157,
+      "nation": "United States",
+      "cost": 1168,
+      "iso": "US",
+      "revenue": 1284,
+      "companyId": 1,
+      "id": 1,
+      "countryId": 1
+    },
+    {
+      "installs": 880,
+      "nation": "United Kingdom",
+      "cost": 862,
+      "iso": "UK",
+      "revenue": 1060,
+      "companyId": 1,
+      "id": 2,
+      "countryId": 2
+    }
+  ],
+  "linked": [
+    {
+      "countryId": 1,
+      "detailsId": 1
+    },
+    {
+      "countryId": 1,
+      "detailsId": 2
+    },
+    {
+      "countryId": 2,
+      "detailsId": 1
+    },
+    {
+      "countryId": 2,
+      "detailsId": 2
+    }
+  ]
+}

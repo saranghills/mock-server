@@ -1,0 +1,1998 @@
+{
+  
+"companies" : [
+      {
+        "display_name": "GameSys", 
+        "id": 1, 
+        "name": "gamesys"
+    }, 
+    {
+        "display_name": "Playtika", 
+        "id": 2, 
+        "name": "playtika"
+    }, 
+    {
+        "display_name": "Disney", 
+        "id": 3, 
+        "name": "disney"
+    }, 
+    {
+        "display_name": "Twitter", 
+        "id": 4, 
+        "name": "twitter"
+    }, 
+    {
+        "display_name": "King", 
+        "id": 5, 
+        "name": "king"
+    }, 
+    {
+        "display_name": "Kabam", 
+        "id": 6, 
+        "name": "kabam"
+    }, 
+    {
+        "display_name": "Car Jump", 
+        "id": 7, 
+        "name": "carjump"
+    }, 
+    {
+        "display_name": "Play Studios", 
+        "id": 8, 
+        "name": "playstudios"
+    }
+],
+	
+"countries" : [
+    {
+        "installs": 13452, 
+        "nation": "United States", 
+        "cost": 25000, 
+        "iso": "US", 
+        "revenue": 20000,
+	"id":1
+    }, 
+    {
+        "installs": 9488, 
+        "nation": "United Kingdom", 
+        "cost": 16002, 
+        "iso": "UK", 
+        "revenue": 11978,
+	"id":2
+    }, 
+    {
+        "installs": 11394, 
+        "nation": "Japan", 
+        "cost": 12495, 
+        "iso": "JP", 
+        "revenue": 17564,
+	"id":3
+    }, 
+    {
+        "installs": 700, 
+        "nation": "Belgium", 
+        "cost": 1500, 
+        "iso": "BE", 
+        "revenue": 622,
+	"id":4
+    }, 
+    {
+        "installs": 863, 
+        "nation": "Brazil", 
+        "cost": 423, 
+        "iso": "BR", 
+        "revenue": 511,
+	"id":5
+    }, 
+    {
+        "installs": 11033, 
+        "nation": "China", 
+        "cost": 14392, 
+        "iso": "CN", 
+        "revenue": 1500,
+	"id":6
+    }, 
+    {
+        "installs": 4520, 
+        "nation": "Germany", 
+        "cost": 7520, 
+        "iso": "DE", 
+        "revenue": 8300,
+	"id":7
+    }, 
+    {
+        "installs": 200, 
+        "nation": "Hungary", 
+        "cost": 350, 
+        "iso": "HU", 
+        "revenue": 100,
+	"id":8
+    }, 
+    {
+        "installs": 200, 
+        "nation": "Finland", 
+        "cost": 390, 
+        "iso": "FI", 
+        "revenue": 500,
+	"id":9
+    }
+
+],
+
+    "details": [
+        {
+            "installs": 1157,
+            "nation": "United States",
+            "cost": 1168,
+            "iso": "US",
+            "revenue": 1284,
+            "companyId": 1,
+            "id": 1,
+            "countryId": 1
+        },
+        {
+            "installs": 880,
+            "nation": "United Kingdom",
+            "cost": 862,
+            "iso": "UK",
+            "revenue": 1060,
+            "companyId": 1,
+            "id": 2,
+            "countryId": 2
+        },
+        {
+            "installs": 1101,
+            "nation": "Japan",
+            "cost": 1266,
+            "iso": "JP",
+            "revenue": 1228,
+            "companyId": 1,
+            "id": 3,
+            "countryId": 3
+        },
+        {
+            "installs": 25,
+            "nation": "Belgium",
+            "cost": 26,
+            "iso": "BE",
+            "revenue": 25,
+            "companyId": 1,
+            "id": 4,
+            "countryId": 4
+        },
+        {
+            "installs": 27,
+            "nation": "Brazil",
+            "cost": 24,
+            "iso": "BR",
+            "revenue": 14,
+            "companyId": 1,
+            "id": 5,
+            "countryId": 5
+        },
+        {
+            "installs": 929,
+            "nation": "China",
+            "cost": 845,
+            "iso": "CN",
+            "revenue": 912,
+            "companyId": 1,
+            "id": 6,
+            "countryId": 6
+        },
+        {
+            "installs": 113,
+            "nation": "Germany",
+            "cost": 102,
+            "iso": "DE",
+            "revenue": 70,
+            "companyId": 1,
+            "id": 7,
+            "countryId": 7
+        },
+        {
+            "installs": 13,
+            "nation": "Hungary",
+            "cost": 10,
+            "iso": "HU",
+            "revenue": 10,
+            "companyId": 1,
+            "id": 8,
+            "countryId": 8
+        },
+        {
+            "installs": 15,
+            "nation": "Finland",
+            "cost": 12,
+            "iso": "FI",
+            "revenue": 7,
+            "companyId": 1,
+            "id": 9,
+            "countryId": 9
+        },
+        {
+            "installs": 101,
+            "nation": "United States",
+            "cost": 83,
+            "iso": "US",
+            "revenue": 84,
+            "companyId": 2,
+            "id": 10,
+            "countryId": 1
+        },
+        {
+            "installs": 289,
+            "nation": "United Kingdom",
+            "cost": 262,
+            "iso": "UK",
+            "revenue": 262,
+            "companyId": 2,
+            "id": 11,
+            "countryId": 2
+        },
+        {
+            "installs": 806,
+            "nation": "Japan",
+            "cost": 725,
+            "iso": "JP",
+            "revenue": 500,
+            "companyId": 2,
+            "id": 12,
+            "countryId": 3
+        },
+        {
+            "installs": 56,
+            "nation": "Belgium",
+            "cost": 48,
+            "iso": "BE",
+            "revenue": 40,
+            "companyId": 2,
+            "id": 13,
+            "countryId": 4
+        },
+        {
+            "installs": 48,
+            "nation": "Brazil",
+            "cost": 38,
+            "iso": "BR",
+            "revenue": 52,
+            "companyId": 2,
+            "id": 14,
+            "countryId": 5
+        },
+        {
+            "installs": 1008,
+            "nation": "China",
+            "cost": 887,
+            "iso": "CN",
+            "revenue": 603,
+            "companyId": 2,
+            "id": 15,
+            "countryId": 6
+        },
+        {
+            "installs": 44,
+            "nation": "Germany",
+            "cost": 46,
+            "iso": "DE",
+            "revenue": 24,
+            "companyId": 2,
+            "id": 16,
+            "countryId": 7
+        },
+        {
+            "installs": 18,
+            "nation": "Hungary",
+            "cost": 15,
+            "iso": "HU",
+            "revenue": 11,
+            "companyId": 2,
+            "id": 17,
+            "countryId": 8
+        },
+        {
+            "installs": 12,
+            "nation": "Finland",
+            "cost": 14,
+            "iso": "FI",
+            "revenue": 9,
+            "companyId": 2,
+            "id": 18,
+            "countryId": 9
+        },
+        {
+            "installs": 909,
+            "nation": "United States",
+            "cost": 1063,
+            "iso": "US",
+            "revenue": 786,
+            "companyId": 3,
+            "id": 19,
+            "countryId": 1
+        },
+        {
+            "installs": 24,
+            "nation": "United Kingdom",
+            "cost": 22,
+            "iso": "UK",
+            "revenue": 15,
+            "companyId": 3,
+            "id": 20,
+            "countryId": 2
+        },
+        {
+            "installs": 512,
+            "nation": "Japan",
+            "cost": 609,
+            "iso": "JP",
+            "revenue": 420,
+            "companyId": 3,
+            "id": 21,
+            "countryId": 3
+        },
+        {
+            "installs": 36,
+            "nation": "Belgium",
+            "cost": 34,
+            "iso": "BE",
+            "revenue": 25,
+            "companyId": 3,
+            "id": 22,
+            "countryId": 4
+        },
+        {
+            "installs": 51,
+            "nation": "Brazil",
+            "cost": 55,
+            "iso": "BR",
+            "revenue": 71,
+            "companyId": 3,
+            "id": 23,
+            "countryId": 5
+        },
+        {
+            "installs": 79,
+            "nation": "China",
+            "cost": 86,
+            "iso": "CN",
+            "revenue": 49,
+            "companyId": 3,
+            "id": 24,
+            "countryId": 6
+        },
+        {
+            "installs": 207,
+            "nation": "Germany",
+            "cost": 231,
+            "iso": "DE",
+            "revenue": 291,
+            "companyId": 3,
+            "id": 25,
+            "countryId": 7
+        },
+        {
+            "installs": 15,
+            "nation": "Hungary",
+            "cost": 12,
+            "iso": "HU",
+            "revenue": 16,
+            "companyId": 3,
+            "id": 26,
+            "countryId": 8
+        },
+        {
+            "installs": 17,
+            "nation": "Finland",
+            "cost": 19,
+            "iso": "FI",
+            "revenue": 10,
+            "companyId": 3,
+            "id": 27,
+            "countryId": 9
+        },
+        {
+            "installs": 909,
+            "nation": "United States",
+            "cost": 1063,
+            "iso": "US",
+            "revenue": 786,
+            "companyId": 3,
+            "id": 28,
+            "countryId": 1
+        },
+        {
+            "installs": 24,
+            "nation": "United Kingdom",
+            "cost": 22,
+            "iso": "UK",
+            "revenue": 15,
+            "companyId": 3,
+            "id": 29,
+            "countryId": 2
+        },
+        {
+            "installs": 512,
+            "nation": "Japan",
+            "cost": 609,
+            "iso": "JP",
+            "revenue": 420,
+            "companyId": 3,
+            "id": 30,
+            "countryId": 3
+        },
+        {
+            "installs": 36,
+            "nation": "Belgium",
+            "cost": 34,
+            "iso": "BE",
+            "revenue": 25,
+            "companyId": 3,
+            "id": 31,
+            "countryId": 4
+        },
+        {
+            "installs": 51,
+            "nation": "Brazil",
+            "cost": 55,
+            "iso": "BR",
+            "revenue": 71,
+            "companyId": 3,
+            "id": 32,
+            "countryId": 5
+        },
+        {
+            "installs": 79,
+            "nation": "China",
+            "cost": 86,
+            "iso": "CN",
+            "revenue": 49,
+            "companyId": 3,
+            "id": 33,
+            "countryId": 6
+        },
+        {
+            "installs": 207,
+            "nation": "Germany",
+            "cost": 231,
+            "iso": "DE",
+            "revenue": 291,
+            "companyId": 3,
+            "id": 34,
+            "countryId": 7
+        },
+        {
+            "installs": 15,
+            "nation": "Hungary",
+            "cost": 12,
+            "iso": "HU",
+            "revenue": 16,
+            "companyId": 3,
+            "id": 35,
+            "countryId": 8
+        },
+        {
+            "installs": 17,
+            "nation": "Finland",
+            "cost": 19,
+            "iso": "FI",
+            "revenue": 10,
+            "companyId": 3,
+            "id": 36,
+            "countryId": 9
+        },
+        {
+            "installs": 199,
+            "nation": "United States",
+            "cost": 232,
+            "iso": "US",
+            "revenue": 141,
+            "companyId": 4,
+            "id": 37,
+            "countryId": 1
+        },
+        {
+            "installs": 736,
+            "nation": "United Kingdom",
+            "cost": 853,
+            "iso": "UK",
+            "revenue": 622,
+            "companyId": 4,
+            "id": 38,
+            "countryId": 2
+        },
+        {
+            "installs": 485,
+            "nation": "Japan",
+            "cost": 436,
+            "iso": "JP",
+            "revenue": 388,
+            "companyId": 4,
+            "id": 39,
+            "countryId": 3
+        },
+        {
+            "installs": 65,
+            "nation": "Belgium",
+            "cost": 54,
+            "iso": "BE",
+            "revenue": 44,
+            "companyId": 4,
+            "id": 40,
+            "countryId": 4
+        },
+        {
+            "installs": 10,
+            "nation": "Brazil",
+            "cost": 10,
+            "iso": "BR",
+            "revenue": 9,
+            "companyId": 4,
+            "id": 41,
+            "countryId": 5
+        },
+        {
+            "installs": 949,
+            "nation": "China",
+            "cost": 787,
+            "iso": "CN",
+            "revenue": 1180,
+            "companyId": 4,
+            "id": 42,
+            "countryId": 6
+        },
+        {
+            "installs": 400,
+            "nation": "Germany",
+            "cost": 432,
+            "iso": "DE",
+            "revenue": 643,
+            "companyId": 4,
+            "id": 43,
+            "countryId": 7
+        },
+        {
+            "installs": 20,
+            "nation": "Hungary",
+            "cost": 17,
+            "iso": "HU",
+            "revenue": 14,
+            "companyId": 4,
+            "id": 44,
+            "countryId": 8
+        },
+        {
+            "installs": 17,
+            "nation": "Finland",
+            "cost": 16,
+            "iso": "FI",
+            "revenue": 20,
+            "companyId": 4,
+            "id": 45,
+            "countryId": 9
+        },
+        {
+            "installs": 597,
+            "nation": "United States",
+            "cost": 632,
+            "iso": "US",
+            "revenue": 385,
+            "companyId": 5,
+            "id": 46,
+            "countryId": 1
+        },
+        {
+            "installs": 152,
+            "nation": "United Kingdom",
+            "cost": 173,
+            "iso": "UK",
+            "revenue": 226,
+            "companyId": 5,
+            "id": 47,
+            "countryId": 2
+        },
+        {
+            "installs": 796,
+            "nation": "Japan",
+            "cost": 716,
+            "iso": "JP",
+            "revenue": 508,
+            "companyId": 5,
+            "id": 48,
+            "countryId": 3
+        },
+        {
+            "installs": 48,
+            "nation": "Belgium",
+            "cost": 44,
+            "iso": "BE",
+            "revenue": 57,
+            "companyId": 5,
+            "id": 49,
+            "countryId": 4
+        },
+        {
+            "installs": 85,
+            "nation": "Brazil",
+            "cost": 96,
+            "iso": "BR",
+            "revenue": 123,
+            "companyId": 5,
+            "id": 50,
+            "countryId": 5
+        },
+        {
+            "installs": 1018,
+            "nation": "China",
+            "cost": 967,
+            "iso": "CN",
+            "revenue": 986,
+            "companyId": 5,
+            "id": 51,
+            "countryId": 6
+        },
+        {
+            "installs": 73,
+            "nation": "Germany",
+            "cost": 70,
+            "iso": "DE",
+            "revenue": 43,
+            "companyId": 5,
+            "id": 52,
+            "countryId": 7
+        },
+        {
+            "installs": 20,
+            "nation": "Hungary",
+            "cost": 19,
+            "iso": "HU",
+            "revenue": 25,
+            "companyId": 5,
+            "id": 53,
+            "countryId": 8
+        },
+        {
+            "installs": 17,
+            "nation": "Finland",
+            "cost": 18,
+            "iso": "FI",
+            "revenue": 9,
+            "companyId": 5,
+            "id": 54,
+            "countryId": 9
+        },
+        {
+            "installs": 280,
+            "nation": "United States",
+            "cost": 313,
+            "iso": "US",
+            "revenue": 162,
+            "companyId": 6,
+            "id": 55,
+            "countryId": 1
+        },
+        {
+            "installs": 177,
+            "nation": "United Kingdom",
+            "cost": 177,
+            "iso": "UK",
+            "revenue": 109,
+            "companyId": 6,
+            "id": 56,
+            "countryId": 2
+        },
+        {
+            "installs": 71,
+            "nation": "Japan",
+            "cost": 57,
+            "iso": "JP",
+            "revenue": 78,
+            "companyId": 6,
+            "id": 57,
+            "countryId": 3
+        },
+        {
+            "installs": 13,
+            "nation": "Belgium",
+            "cost": 10,
+            "iso": "BE",
+            "revenue": 6,
+            "companyId": 6,
+            "id": 58,
+            "countryId": 4
+        },
+        {
+            "installs": 20,
+            "nation": "Brazil",
+            "cost": 18,
+            "iso": "BR",
+            "revenue": 10,
+            "companyId": 6,
+            "id": 59,
+            "countryId": 5
+        },
+        {
+            "installs": 450,
+            "nation": "China",
+            "cost": 409,
+            "iso": "CN",
+            "revenue": 609,
+            "companyId": 6,
+            "id": 60,
+            "countryId": 6
+        },
+        {
+            "installs": 421,
+            "nation": "Germany",
+            "cost": 437,
+            "iso": "DE",
+            "revenue": 611,
+            "companyId": 6,
+            "id": 61,
+            "countryId": 7
+        },
+        {
+            "installs": 13,
+            "nation": "Hungary",
+            "cost": 14,
+            "iso": "HU",
+            "revenue": 20,
+            "companyId": 6,
+            "id": 62,
+            "countryId": 8
+        },
+        {
+            "installs": 19,
+            "nation": "Finland",
+            "cost": 15,
+            "iso": "FI",
+            "revenue": 12,
+            "companyId": 6,
+            "id": 63,
+            "countryId": 9
+        },
+        {
+            "installs": 802,
+            "nation": "United States",
+            "cost": 745,
+            "iso": "US",
+            "revenue": 536,
+            "companyId": 7,
+            "id": 64,
+            "countryId": 1
+        },
+        {
+            "installs": 884,
+            "nation": "United Kingdom",
+            "cost": 910,
+            "iso": "UK",
+            "revenue": 1028,
+            "companyId": 7,
+            "id": 65,
+            "countryId": 2
+        },
+        {
+            "installs": 632,
+            "nation": "Japan",
+            "cost": 575,
+            "iso": "JP",
+            "revenue": 350,
+            "companyId": 7,
+            "id": 66,
+            "countryId": 3
+        },
+        {
+            "installs": 63,
+            "nation": "Belgium",
+            "cost": 67,
+            "iso": "BE",
+            "revenue": 45,
+            "companyId": 7,
+            "id": 67,
+            "countryId": 4
+        },
+        {
+            "installs": 76,
+            "nation": "Brazil",
+            "cost": 80,
+            "iso": "BR",
+            "revenue": 102,
+            "companyId": 7,
+            "id": 68,
+            "countryId": 5
+        },
+        {
+            "installs": 324,
+            "nation": "China",
+            "cost": 314,
+            "iso": "CN",
+            "revenue": 194,
+            "companyId": 7,
+            "id": 69,
+            "countryId": 6
+        },
+        {
+            "installs": 216,
+            "nation": "Germany",
+            "cost": 216,
+            "iso": "DE",
+            "revenue": 183,
+            "companyId": 7,
+            "id": 70,
+            "countryId": 7
+        },
+        {
+            "installs": 15,
+            "nation": "Hungary",
+            "cost": 12,
+            "iso": "HU",
+            "revenue": 11,
+            "companyId": 7,
+            "id": 71,
+            "countryId": 8
+        },
+        {
+            "installs": 17,
+            "nation": "Finland",
+            "cost": 18,
+            "iso": "FI",
+            "revenue": 24,
+            "companyId": 7,
+            "id": 72,
+            "countryId": 9
+        },
+        {
+            "installs": 395,
+            "nation": "United States",
+            "cost": 450,
+            "iso": "US",
+            "revenue": 616,
+            "companyId": 8,
+            "id": 73,
+            "countryId": 1
+        },
+        {
+            "installs": 916,
+            "nation": "United Kingdom",
+            "cost": 1080,
+            "iso": "UK",
+            "revenue": 1015,
+            "companyId": 8,
+            "id": 74,
+            "countryId": 2
+        },
+        {
+            "installs": 680,
+            "nation": "Japan",
+            "cost": 571,
+            "iso": "JP",
+            "revenue": 536,
+            "companyId": 8,
+            "id": 75,
+            "countryId": 3
+        },
+        {
+            "installs": 46,
+            "nation": "Belgium",
+            "cost": 42,
+            "iso": "BE",
+            "revenue": 36,
+            "companyId": 8,
+            "id": 76,
+            "countryId": 4
+        },
+        {
+            "installs": 77,
+            "nation": "Brazil",
+            "cost": 66,
+            "iso": "BR",
+            "revenue": 65,
+            "companyId": 8,
+            "id": 77,
+            "countryId": 5
+        },
+        {
+            "installs": 857,
+            "nation": "China",
+            "cost": 737,
+            "iso": "CN",
+            "revenue": 1039,
+            "companyId": 8,
+            "id": 78,
+            "countryId": 6
+        },
+        {
+            "installs": 337,
+            "nation": "Germany",
+            "cost": 357,
+            "iso": "DE",
+            "revenue": 321,
+            "companyId": 8,
+            "id": 79,
+            "countryId": 7
+        },
+        {
+            "installs": 17,
+            "nation": "Hungary",
+            "cost": 16,
+            "iso": "HU",
+            "revenue": 10,
+            "companyId": 8,
+            "id": 80,
+            "countryId": 8
+        },
+        {
+            "installs": 14,
+            "nation": "Finland",
+            "cost": 13,
+            "iso": "FI",
+            "revenue": 14,
+            "companyId": 8,
+            "id": 81,
+            "countryId": 9
+        },
+        {
+            "installs": 13452,
+            "nation": "United States",
+            "cost": 25000,
+            "iso": "US",
+            "revenue": 20000,
+            "companyId": 9,
+            "id": 82,
+            "countryId": 1
+        },
+        {
+            "installs": 9488,
+            "nation": "United Kingdom",
+            "cost": 16002,
+            "iso": "UK",
+            "revenue": 11978,
+            "companyId": 9,
+            "id": 83,
+            "countryId": 2
+        },
+        {
+            "installs": 11394,
+            "nation": "Japan",
+            "cost": 12495,
+            "iso": "JP",
+            "revenue": 17564,
+            "companyId": 9,
+            "id": 84,
+            "countryId": 3
+        },
+        {
+            "installs": 700,
+            "nation": "Belgium",
+            "cost": 1500,
+            "iso": "BE",
+            "revenue": 622,
+            "companyId": 9,
+            "id": 85,
+            "countryId": 4
+        },
+        {
+            "installs": 863,
+            "nation": "Brazil",
+            "cost": 423,
+            "iso": "BR",
+            "revenue": 511,
+            "companyId": 9,
+            "id": 86,
+            "countryId": 5
+        },
+        {
+            "installs": 11033,
+            "nation": "China",
+            "cost": 14392,
+            "iso": "CN",
+            "revenue": 1500,
+            "companyId": 9,
+            "id": 87,
+            "countryId": 6
+        },
+        {
+            "installs": 4520,
+            "nation": "Germany",
+            "cost": 7520,
+            "iso": "DE",
+            "revenue": 8300,
+            "companyId": 9,
+            "id": 88,
+            "countryId": 7
+        },
+        {
+            "installs": 200,
+            "nation": "Hungary",
+            "cost": 350,
+            "iso": "HU",
+            "revenue": 100,
+            "companyId": 9,
+            "id": 89,
+            "countryId": 8
+        },
+        {
+            "installs": 200,
+            "nation": "Finland",
+            "cost": 390,
+            "iso": "FI",
+            "revenue": 500,
+            "companyId": 9,
+            "id": 90,
+            "countryId": 19
+        }
+    ],
+  "linked": [
+ {
+   "countryId": 1,
+   "detailsId": 1
+ },
+ {
+   "countryId": 1,
+   "detailsId": 2
+ },
+ {
+   "countryId": 1,
+   "detailsId": 3
+ },
+ {
+   "countryId": 1,
+   "detailsId": 4
+ },
+ {
+   "countryId": 1,
+   "detailsId": 5
+ },
+ {
+   "countryId": 1,
+   "detailsId": 6
+ },
+ {
+   "countryId": 1,
+   "detailsId": 7
+ },
+ {
+   "countryId": 1,
+   "detailsId": 8
+ },
+ {
+   "countryId": 1,
+   "detailsId": 9
+ },
+ {
+   "countryId": 1,
+   "detailsId": 10
+ },
+ {
+   "countryId": 1,
+   "detailsId": 11
+ },
+ {
+   "countryId": 1,
+   "detailsId": 12
+ },
+ {
+   "countryId": 1,
+   "detailsId": 13
+ },
+ {
+   "countryId": 1,
+   "detailsId": 14
+ },
+ {
+   "countryId": 1,
+   "detailsId": 15
+ },
+ {
+   "countryId": 1,
+   "detailsId": 16
+ },
+ {
+   "countryId": 1,
+   "detailsId": 17
+ },
+ {
+   "countryId": 1,
+   "detailsId": 18
+ },
+ {
+   "countryId": 1,
+   "detailsId": 19
+ },
+ {
+   "countryId": 1,
+   "detailsId": 20
+ },
+ {
+   "countryId": 1,
+   "detailsId": 21
+ },
+ {
+   "countryId": 1,
+   "detailsId": 22
+ },
+ {
+   "countryId": 1,
+   "detailsId": 23
+ },
+ {
+   "countryId": 1,
+   "detailsId": 24
+ },
+ {
+   "countryId": 1,
+   "detailsId": 25
+ },
+ {
+   "countryId": 1,
+   "detailsId": 26
+ },
+ {
+   "countryId": 1,
+   "detailsId": 27
+ },
+ {
+   "countryId": 2,
+   "detailsId": 1
+ },
+ {
+   "countryId": 2,
+   "detailsId": 2
+ },
+ {
+   "countryId": 2,
+   "detailsId": 3
+ },
+ {
+   "countryId": 2,
+   "detailsId": 4
+ },
+ {
+   "countryId": 2,
+   "detailsId": 5
+ },
+ {
+   "countryId": 2,
+   "detailsId": 6
+ },
+ {
+   "countryId": 2,
+   "detailsId": 7
+ },
+ {
+   "countryId": 2,
+   "detailsId": 8
+ },
+ {
+   "countryId": 2,
+   "detailsId": 9
+ },
+ {
+   "countryId": 2,
+   "detailsId": 10
+ },
+ {
+   "countryId": 2,
+   "detailsId": 11
+ },
+ {
+   "countryId": 2,
+   "detailsId": 12
+ },
+ {
+   "countryId": 2,
+   "detailsId": 13
+ },
+ {
+   "countryId": 2,
+   "detailsId": 14
+ },
+ {
+   "countryId": 2,
+   "detailsId": 15
+ },
+ {
+   "countryId": 2,
+   "detailsId": 16
+ },
+ {
+   "countryId": 2,
+   "detailsId": 17
+ },
+ {
+   "countryId": 2,
+   "detailsId": 18
+ },
+ {
+   "countryId": 2,
+   "detailsId": 19
+ },
+ {
+   "countryId": 2,
+   "detailsId": 20
+ },
+ {
+   "countryId": 2,
+   "detailsId": 21
+ },
+ {
+   "countryId": 2,
+   "detailsId": 22
+ },
+ {
+   "countryId": 2,
+   "detailsId": 23
+ },
+ {
+   "countryId": 2,
+   "detailsId": 24
+ },
+ {
+   "countryId": 2,
+   "detailsId": 25
+ },
+ {
+   "countryId": 2,
+   "detailsId": 26
+ },
+ {
+   "countryId": 2,
+   "detailsId": 27
+ },
+ {
+   "countryId": 3,
+   "detailsId": 1
+ },
+ {
+   "countryId": 3,
+   "detailsId": 2
+ },
+ {
+   "countryId": 3,
+   "detailsId": 3
+ },
+ {
+   "countryId": 3,
+   "detailsId": 4
+ },
+ {
+   "countryId": 3,
+   "detailsId": 5
+ },
+ {
+   "countryId": 3,
+   "detailsId": 6
+ },
+ {
+   "countryId": 3,
+   "detailsId": 7
+ },
+ {
+   "countryId": 3,
+   "detailsId": 8
+ },
+ {
+   "countryId": 3,
+   "detailsId": 9
+ },
+ {
+   "countryId": 3,
+   "detailsId": 10
+ },
+ {
+   "countryId": 3,
+   "detailsId": 11
+ },
+ {
+   "countryId": 3,
+   "detailsId": 12
+ },
+ {
+   "countryId": 3,
+   "detailsId": 13
+ },
+ {
+   "countryId": 3,
+   "detailsId": 14
+ },
+ {
+   "countryId": 3,
+   "detailsId": 15
+ },
+ {
+   "countryId": 3,
+   "detailsId": 16
+ },
+ {
+   "countryId": 3,
+   "detailsId": 17
+ },
+ {
+   "countryId": 3,
+   "detailsId": 18
+ },
+ {
+   "countryId": 3,
+   "detailsId": 19
+ },
+ {
+   "countryId": 3,
+   "detailsId": 20
+ },
+ {
+   "countryId": 3,
+   "detailsId": 21
+ },
+ {
+   "countryId": 3,
+   "detailsId": 22
+ },
+ {
+   "countryId": 3,
+   "detailsId": 23
+ },
+ {
+   "countryId": 3,
+   "detailsId": 24
+ },
+ {
+   "countryId": 3,
+   "detailsId": 25
+ },
+ {
+   "countryId": 3,
+   "detailsId": 26
+ },
+ {
+   "countryId": 3,
+   "detailsId": 27
+ },
+ {
+   "countryId": 4,
+   "detailsId": 1
+ },
+ {
+   "countryId": 4,
+   "detailsId": 2
+ },
+ {
+   "countryId": 4,
+   "detailsId": 3
+ },
+ {
+   "countryId": 4,
+   "detailsId": 4
+ },
+ {
+   "countryId": 4,
+   "detailsId": 5
+ },
+ {
+   "countryId": 4,
+   "detailsId": 6
+ },
+ {
+   "countryId": 4,
+   "detailsId": 7
+ },
+ {
+   "countryId": 4,
+   "detailsId": 8
+ },
+ {
+   "countryId": 4,
+   "detailsId": 9
+ },
+ {
+   "countryId": 4,
+   "detailsId": 10
+ },
+ {
+   "countryId": 4,
+   "detailsId": 11
+ },
+ {
+   "countryId": 4,
+   "detailsId": 12
+ },
+ {
+   "countryId": 4,
+   "detailsId": 13
+ },
+ {
+   "countryId": 4,
+   "detailsId": 14
+ },
+ {
+   "countryId": 4,
+   "detailsId": 15
+ },
+ {
+   "countryId": 4,
+   "detailsId": 16
+ },
+ {
+   "countryId": 4,
+   "detailsId": 17
+ },
+ {
+   "countryId": 4,
+   "detailsId": 18
+ },
+ {
+   "countryId": 4,
+   "detailsId": 19
+ },
+ {
+   "countryId": 4,
+   "detailsId": 20
+ },
+ {
+   "countryId": 4,
+   "detailsId": 21
+ },
+ {
+   "countryId": 4,
+   "detailsId": 22
+ },
+ {
+   "countryId": 4,
+   "detailsId": 23
+ },
+ {
+   "countryId": 4,
+   "detailsId": 24
+ },
+ {
+   "countryId": 4,
+   "detailsId": 25
+ },
+ {
+   "countryId": 4,
+   "detailsId": 26
+ },
+ {
+   "countryId": 4,
+   "detailsId": 27
+ },
+ {
+   "countryId": 5,
+   "detailsId": 1
+ },
+ {
+   "countryId": 5,
+   "detailsId": 2
+ },
+ {
+   "countryId": 5,
+   "detailsId": 3
+ },
+ {
+   "countryId": 5,
+   "detailsId": 4
+ },
+ {
+   "countryId": 5,
+   "detailsId": 5
+ },
+ {
+   "countryId": 5,
+   "detailsId": 6
+ },
+ {
+   "countryId": 5,
+   "detailsId": 7
+ },
+ {
+   "countryId": 5,
+   "detailsId": 8
+ },
+ {
+   "countryId": 5,
+   "detailsId": 9
+ },
+ {
+   "countryId": 5,
+   "detailsId": 10
+ },
+ {
+   "countryId": 5,
+   "detailsId": 11
+ },
+ {
+   "countryId": 5,
+   "detailsId": 12
+ },
+ {
+   "countryId": 5,
+   "detailsId": 13
+ },
+ {
+   "countryId": 5,
+   "detailsId": 14
+ },
+ {
+   "countryId": 5,
+   "detailsId": 15
+ },
+ {
+   "countryId": 5,
+   "detailsId": 16
+ },
+ {
+   "countryId": 5,
+   "detailsId": 17
+ },
+ {
+   "countryId": 5,
+   "detailsId": 18
+ },
+ {
+   "countryId": 5,
+   "detailsId": 19
+ },
+ {
+   "countryId": 5,
+   "detailsId": 20
+ },
+ {
+   "countryId": 5,
+   "detailsId": 21
+ },
+ {
+   "countryId": 5,
+   "detailsId": 22
+ },
+ {
+   "countryId": 5,
+   "detailsId": 23
+ },
+ {
+   "countryId": 5,
+   "detailsId": 24
+ },
+ {
+   "countryId": 5,
+   "detailsId": 25
+ },
+ {
+   "countryId": 5,
+   "detailsId": 26
+ },
+ {
+   "countryId": 5,
+   "detailsId": 27
+ },
+ {
+   "countryId": 6,
+   "detailsId": 1
+ },
+ {
+   "countryId": 6,
+   "detailsId": 2
+ },
+ {
+   "countryId": 6,
+   "detailsId": 3
+ },
+ {
+   "countryId": 6,
+   "detailsId": 4
+ },
+ {
+   "countryId": 6,
+   "detailsId": 5
+ },
+ {
+   "countryId": 6,
+   "detailsId": 6
+ },
+ {
+   "countryId": 6,
+   "detailsId": 7
+ },
+ {
+   "countryId": 6,
+   "detailsId": 8
+ },
+ {
+   "countryId": 6,
+   "detailsId": 9
+ },
+ {
+   "countryId": 6,
+   "detailsId": 10
+ },
+ {
+   "countryId": 6,
+   "detailsId": 11
+ },
+ {
+   "countryId": 6,
+   "detailsId": 12
+ },
+ {
+   "countryId": 6,
+   "detailsId": 13
+ },
+ {
+   "countryId": 6,
+   "detailsId": 14
+ },
+ {
+   "countryId": 6,
+   "detailsId": 15
+ },
+ {
+   "countryId": 6,
+   "detailsId": 16
+ },
+ {
+   "countryId": 6,
+   "detailsId": 17
+ },
+ {
+   "countryId": 6,
+   "detailsId": 18
+ },
+ {
+   "countryId": 6,
+   "detailsId": 19
+ },
+ {
+   "countryId": 6,
+   "detailsId": 20
+ },
+ {
+   "countryId": 6,
+   "detailsId": 21
+ },
+ {
+   "countryId": 6,
+   "detailsId": 22
+ },
+ {
+   "countryId": 6,
+   "detailsId": 23
+ },
+ {
+   "countryId": 6,
+   "detailsId": 24
+ },
+ {
+   "countryId": 6,
+   "detailsId": 25
+ },
+ {
+   "countryId": 6,
+   "detailsId": 26
+ },
+ {
+   "countryId": 6,
+   "detailsId": 27
+ },
+ {
+   "countryId": 7,
+   "detailsId": 1
+ },
+ {
+   "countryId": 7,
+   "detailsId": 2
+ },
+ {
+   "countryId": 7,
+   "detailsId": 3
+ },
+ {
+   "countryId": 7,
+   "detailsId": 4
+ },
+ {
+   "countryId": 7,
+   "detailsId": 5
+ },
+ {
+   "countryId": 7,
+   "detailsId": 6
+ },
+ {
+   "countryId": 7,
+   "detailsId": 7
+ },
+ {
+   "countryId": 7,
+   "detailsId": 8
+ },
+ {
+   "countryId": 7,
+   "detailsId": 9
+ },
+ {
+   "countryId": 7,
+   "detailsId": 10
+ },
+ {
+   "countryId": 7,
+   "detailsId": 11
+ },
+ {
+   "countryId": 7,
+   "detailsId": 12
+ },
+ {
+   "countryId": 7,
+   "detailsId": 13
+ },
+ {
+   "countryId": 7,
+   "detailsId": 14
+ },
+ {
+   "countryId": 7,
+   "detailsId": 15
+ },
+ {
+   "countryId": 7,
+   "detailsId": 16
+ },
+ {
+   "countryId": 7,
+   "detailsId": 17
+ },
+ {
+   "countryId": 7,
+   "detailsId": 18
+ },
+ {
+   "countryId": 7,
+   "detailsId": 19
+ },
+ {
+   "countryId": 7,
+   "detailsId": 20
+ },
+ {
+   "countryId": 7,
+   "detailsId": 21
+ },
+ {
+   "countryId": 7,
+   "detailsId": 22
+ },
+ {
+   "countryId": 7,
+   "detailsId": 23
+ },
+ {
+   "countryId": 7,
+   "detailsId": 24
+ },
+ {
+   "countryId": 7,
+   "detailsId": 25
+ },
+ {
+   "countryId": 7,
+   "detailsId": 26
+ },
+ {
+   "countryId": 7,
+   "detailsId": 27
+ },
+ {
+   "countryId": 8,
+   "detailsId": 1
+ },
+ {
+   "countryId": 8,
+   "detailsId": 2
+ },
+ {
+   "countryId": 8,
+   "detailsId": 3
+ },
+ {
+   "countryId": 8,
+   "detailsId": 4
+ },
+ {
+   "countryId": 8,
+   "detailsId": 5
+ },
+ {
+   "countryId": 8,
+   "detailsId": 6
+ },
+ {
+   "countryId": 8,
+   "detailsId": 7
+ },
+ {
+   "countryId": 8,
+   "detailsId": 8
+ },
+ {
+   "countryId": 8,
+   "detailsId": 9
+ },
+ {
+   "countryId": 8,
+   "detailsId": 10
+ },
+ {
+   "countryId": 8,
+   "detailsId": 11
+ },
+ {
+   "countryId": 8,
+   "detailsId": 12
+ },
+ {
+   "countryId": 8,
+   "detailsId": 13
+ },
+ {
+   "countryId": 8,
+   "detailsId": 14
+ },
+ {
+   "countryId": 8,
+   "detailsId": 15
+ },
+ {
+   "countryId": 8,
+   "detailsId": 16
+ },
+ {
+   "countryId": 8,
+   "detailsId": 17
+ },
+ {
+   "countryId": 8,
+   "detailsId": 18
+ },
+ {
+   "countryId": 8,
+   "detailsId": 19
+ },
+ {
+   "countryId": 8,
+   "detailsId": 20
+ },
+ {
+   "countryId": 8,
+   "detailsId": 21
+ },
+ {
+   "countryId": 8,
+   "detailsId": 22
+ },
+ {
+   "countryId": 8,
+   "detailsId": 23
+ },
+ {
+   "countryId": 8,
+   "detailsId": 24
+ },
+ {
+   "countryId": 8,
+   "detailsId": 25
+ },
+ {
+   "countryId": 8,
+   "detailsId": 26
+ },
+ {
+   "countryId": 8,
+   "detailsId": 27
+ },
+ {
+   "countryId": 9,
+   "detailsId": 1
+ },
+ {
+   "countryId": 9,
+   "detailsId": 2
+ },
+ {
+   "countryId": 9,
+   "detailsId": 3
+ },
+ {
+   "countryId": 9,
+   "detailsId": 4
+ },
+ {
+   "countryId": 9,
+   "detailsId": 5
+ },
+ {
+   "countryId": 9,
+   "detailsId": 6
+ },
+ {
+   "countryId": 9,
+   "detailsId": 7
+ },
+ {
+   "countryId": 9,
+   "detailsId": 8
+ },
+ {
+   "countryId": 9,
+   "detailsId": 9
+ },
+ {
+   "countryId": 9,
+   "detailsId": 10
+ },
+ {
+   "countryId": 9,
+   "detailsId": 11
+ },
+ {
+   "countryId": 9,
+   "detailsId": 12
+ },
+ {
+   "countryId": 9,
+   "detailsId": 13
+ },
+ {
+   "countryId": 9,
+   "detailsId": 14
+ },
+ {
+   "countryId": 9,
+   "detailsId": 15
+ },
+ {
+   "countryId": 9,
+   "detailsId": 16
+ },
+ {
+   "countryId": 9,
+   "detailsId": 17
+ },
+ {
+   "countryId": 9,
+   "detailsId": 18
+ },
+ {
+   "countryId": 9,
+   "detailsId": 19
+ },
+ {
+   "countryId": 9,
+   "detailsId": 20
+ },
+ {
+   "countryId": 9,
+   "detailsId": 21
+ },
+ {
+   "countryId": 9,
+   "detailsId": 22
+ },
+ {
+   "countryId": 9,
+   "detailsId": 23
+ },
+ {
+   "countryId": 9,
+   "detailsId": 24
+ },
+ {
+   "countryId": 9,
+   "detailsId": 25
+ },
+ {
+   "countryId": 9,
+   "detailsId": 26
+ },
+ {
+   "countryId": 9,
+   "detailsId": 27
+ }
+]
+}
